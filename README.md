@@ -12,9 +12,9 @@ Knowing the location of your family members can provide a great sense of securit
 
 ### Heuristics Evaluation:
 
-| Heuristic & Description | Evaluation | Recommendation |
-| --------------- | --------------- | --------------- |
-| 1. Visibility of system status | Strengths: The app provides clear and up-to-date information on the location and status of family members.<br/>Weaknesses: The app could improve by providing clearer indicators of when a family member's location is being updated or when communication is established. | Add more visual cues to indicate when the app is working and when updates are being made. |
+| Heuristic & Description | Evaluation | Recommendation | Severity Rating |
+| --------------- | --------------- | --------------- | --------------- |
+| 1. Visibility of system status | Strengths: The app provides clear and up-to-date information on the location and status of family members.<br/>Weaknesses: The app could improve by providing clearer indicators of when a family member's location is being updated or when communication is established. | Add more visual cues to indicate when the app is working and when updates are being made. | 
 | 2. Match between system and the real world | Strengths: The app uses standard terminology and icons that are familiar to users, such as the map view and chat icons.<br/>Weaknesses: The app could improve by providing clearer labels and instructions for certain features, such as setting up geofenced areas. | Improve labeling and instructions for certain features to reduce confusion. |
 | 3. User control and freedom | Strengths: The app provides users with control over who they share their location with and when they receive notifications.<br/>Weaknesses: The app could improve by providing more options for customizing notifications and preferences. | Provide more options for customization of notifications and preferences. |
 | 4. Consistency and standards | Strengths: The app follows standard design conventions and layout.<br/>Weaknesses: The app could improve by providing more consistent layout and terminology across different platforms (i.e. iOS and Android). | Ensure consistency in layout and terminology across different platforms. |
