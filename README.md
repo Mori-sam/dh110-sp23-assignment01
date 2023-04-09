@@ -1,4 +1,4 @@
-# Assignment 01: Heuristic Evaluation - Yongsen Huang, DH110 SPRING2023
+# Assignment 01: Heuristic Evaluation - Yongsen Huang
 
 ## Tentative Title: TribeTrack
 As I left home for college, I found myself lacking communication with my family. I often wondered where they were and what they were doing, and most importantly, if they had made it home safely. To address this issue, I decided to create an app that would allow me to connect with my family more easily.
