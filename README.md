@@ -14,7 +14,7 @@ Knowing the location of your family members can provide a great sense of securit
 
 | Heuristic & Description | Evaluation | Recommendation |
 | --------------- | --------------- | --------------- |
-| 1. Visibility of system status | Strengths: The app provides clear and up-to-date information on the location and status of family members.   Weaknesses: The app could improve by providing clearer indicators of when a family member's location is being updated or when communication is established. | Add more visual cues to indicate when the app is working and when updates are being made. |
+| 1. Visibility of system status | Strengths: The app provides clear and up-to-date information on the location and status of family members.<br/>Weaknesses: The app could improve by providing clearer indicators of when a family member's location is being updated or when communication is established. | Add more visual cues to indicate when the app is working and when updates are being made. |
 | 2. Match between system and the real world | Row 2, Column 2 | Row 2, Column 3 |
 | 3. User control and freedom | Row 2, Column 2 | Row 2, Column 3 |
 | 4. Consistency and standards | Row 2, Column 2 | Row 2, Column 3 |
