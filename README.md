@@ -7,4 +7,4 @@ Knowing the location of your family members can provide a great sense of securit
 
 ## App #1: Life360
 Life360 is a family safety app that provides real-time location tracking, communication, and safety features for families. The app was initially developed as a way for families to keep track of their loved ones' location, especially when they were out and about in the city. Today, Life360 has evolved into a comprehensive family safety platform with over 25 million active users in more than 140 countries. The app allows family members to share their location with each other, create private groups, set up geofenced areas, and receive alerts when family members enter or leave specific locations.
-<img src=“./Life1.PNG"><img src=“./Life2.PNG"><img src=“./Life2.PNG">
+<img src=“./Life1.PNG">
