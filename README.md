@@ -48,3 +48,8 @@ Overall, the Life360 app has a very good heuristic evaluation, with strengths in
 | 10. Help and documentation:<br/>The system must have concise documentation and easily accessible help for users. | Strength: The app provides a range of helpful resources, such as FAQs and a support center.<br/>Weakness: The app could benefit from more interactive support options, such as video chatting or phone support, for users who need more personalized assistance. | Add more interactive support options, such as video chatting or phone support. This could provide users with more direct and immediate support when they encounter issues with the app. | 2 |
 
 Overall, the heuristic evaluation of the Geozilla app identified both strengths and weaknesses across the 10 heuristics. Some of the strengths include the clear visibility of family member locations on a map, easy-to-use features for setting up safe zones, and the ability to communicate with family members through the app. However, some weaknesses were also identified, such as a lack of visual indicators for system status, inconsistent terminology used throughout the app, and limited customization options for some features. To improve the app, recommendations were made, such as adding more visual alerts for system status, providing more customization options, and adding more proactive error prevention and guidance. By addressing these weaknesses, the Geozilla app could provide a more user-friendly and efficient experience for families using the app to stay connected and safe.
+
+## Credits
+
+How to conduct a heuristic evaluation by NNgroup
+https://www.nngroup.com/articles/how-to-conduct-a-heuristic-evaluation/
