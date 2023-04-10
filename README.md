@@ -52,4 +52,12 @@ Overall, the heuristic evaluation of the Geozilla app identified both strengths 
 ## Credits
 
 How to conduct a heuristic evaluation by NNgroup
-https://www.nngroup.com/articles/how-to-conduct-a-heuristic-evaluation/
+(https://www.nngroup.com/articles/how-to-conduct-a-heuristic-evaluation/)
+Severity Ratings for Usability Problems by NNgroup
+(https://www.nngroup.com/articles/how-to-rate-the-severity-of-usability-problems/)
+10 Usability Heuristics for User Interface Design by NNgroup
+(https://www.nngroup.com/articles/ten-usability-heuristics/)
+Life360
+(https://www.life360.com)
+GeoZilla
+(https://geozilla.com)
